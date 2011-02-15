@@ -21,7 +21,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.commonjava.emb.integration</groupId>
-  <artifactId>nexus-routem-plugin</artifactId>
+  <artifactId>nx-routem-plugin</artifactId>
   <version>1.0-alpha-1-SNAPSHOT</version>
 
   <packaging>nexus-plugin</packaging>
